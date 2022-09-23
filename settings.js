@@ -19,12 +19,12 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['96891103640']
-global.premium = ['96891103640']
-global.ownernomer = '96891103640'
-global.ownername = '( الـمـطـور )'
-global.botname = '( بـوت غـوجـو )'
-global.footer = '( غـوجـو )'
+global.owner = ['01066146105']
+global.premium = ['01066146105']
+global.ownernomer = '01066146105'
+global.ownername = '( مہيہدؤ )'
+global.botname = '( آلعہريہشہيہهہ  )'
+global.footer = '( ĴỖЌẸŘ )'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://chat.whatsapp.com/CKLmAGJo3iw5AvNM1KZee3'
